@@ -1,4 +1,4 @@
-# nexonet-csharp
+# nexonet-c#
 
 > [!CAUTION]
 > **nexonet** is a user-friendly and modern networking library currently in a very early stage of development.  
@@ -9,7 +9,7 @@
 nexonet aims to provide developers with a simple way to implement networking operations in their applications.  
 The library is written in Java and leverages modern programming paradigms to offer an intuitive API.
 
-This is the csharp version of our java networking library [nexonet](https://github.com/Nexoscript/nexonet)
+This is the c# version of our java networking library [nexonet](https://github.com/Nexoscript/nexonet)
 
 ## Installation
 
